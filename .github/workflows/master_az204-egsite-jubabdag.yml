@@ -53,4 +53,4 @@ jobs:
           app-name: 'az204-egsite-jubabdag'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60AFD670722947A887E508197A153A29 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9460D55616C42B5839D18B77AFBE09A }}
